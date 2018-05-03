@@ -292,6 +292,7 @@ __pycache__/
 .DS_STORE
 
 /dist/
+/aot/
 bazel-*
 e2e_test.*
 node_modules
